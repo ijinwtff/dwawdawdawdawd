@@ -6,8 +6,8 @@
         [4, "What"]
     ],
     "StatusData": {
-        "EzHub": "Offline",
-        "EzAPI": "Offline",
+        "EzHub": "Online",
+        "EzAPI": "Online",
         "EzLauncher": "Online"
     },
     "LatestVersion": "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub.lua",
